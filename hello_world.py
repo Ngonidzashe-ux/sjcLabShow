@@ -1,5 +1,5 @@
 print("Hello, World")
-print('hola!')
+print('Farewell github')
 a = 'ngoni'
 print(a+'is creating conflicting branches')
 #new things

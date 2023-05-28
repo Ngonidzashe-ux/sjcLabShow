@@ -6,3 +6,4 @@ print(a+'is creating conflicting branches')
 #new
 print('vivre rire aimer')
 print('added new lines to merge')
+print('Why goodbye all? lol')
